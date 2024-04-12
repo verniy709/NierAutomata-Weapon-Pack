@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CruelBloodOath -->
+
+  <NA_W_CruelBloodOath_Prototype.label>黑之血盟 原型</NA_W_CruelBloodOath_Prototype.label>
+  <NA_W_CruelBloodOath_Prototype.description>黑之血盟 原型</NA_W_CruelBloodOath_Prototype.description>
+  <NA_W_CruelBloodOath_Prototype.comps.2.verbProps.0.label>shockwave</NA_W_CruelBloodOath_Prototype.comps.2.verbProps.0.label>
+  <NA_W_CruelBloodOath_Prototype.tools.0.label>把手</NA_W_CruelBloodOath_Prototype.tools.0.label>
+  <NA_W_CruelBloodOath_Prototype.tools.1.label>尖端</NA_W_CruelBloodOath_Prototype.tools.1.label>
+  <NA_W_CruelBloodOath_Prototype.tools.2.label>利刃</NA_W_CruelBloodOath_Prototype.tools.2.label>
+  <NA_W_CruelBloodOath_Prototype.verbs.0.label>shockwave</NA_W_CruelBloodOath_Prototype.verbs.0.label>
+
+  <NA_W_CruelBloodOath_Replica.label>黑之血盟 复制品</NA_W_CruelBloodOath_Replica.label>
+  <NA_W_CruelBloodOath_Replica.description>黑之血盟 复制品</NA_W_CruelBloodOath_Replica.description>
+  <NA_W_CruelBloodOath_Replica.tools.0.label>把手</NA_W_CruelBloodOath_Replica.tools.0.label>
+  <NA_W_CruelBloodOath_Replica.tools.1.label>尖端</NA_W_CruelBloodOath_Replica.tools.1.label>
+  <NA_W_CruelBloodOath_Replica.tools.2.label>利刃</NA_W_CruelBloodOath_Replica.tools.2.label>
+
+
+  <!-- VirtuousTreaty -->
+
+  <NA_W_VirtuousTreaty_Prototype.label>白之约定 原型</NA_W_VirtuousTreaty_Prototype.label>
+  <NA_W_VirtuousTreaty_Prototype.description>白之约定 原型</NA_W_VirtuousTreaty_Prototype.description>
+  <NA_W_VirtuousTreaty_Prototype.comps.2.verbProps.0.label>shockwave</NA_W_VirtuousTreaty_Prototype.comps.2.verbProps.0.label>
+  <NA_W_VirtuousTreaty_Prototype.tools.0.label>把手</NA_W_VirtuousTreaty_Prototype.tools.0.label>
+  <NA_W_VirtuousTreaty_Prototype.tools.1.label>尖端</NA_W_VirtuousTreaty_Prototype.tools.1.label>
+  <NA_W_VirtuousTreaty_Prototype.tools.2.label>利刃</NA_W_VirtuousTreaty_Prototype.tools.2.label>
+  <NA_W_VirtuousTreaty_Prototype.verbs.0.label>shockwave</NA_W_VirtuousTreaty_Prototype.verbs.0.label>
+
+  <NA_W_VirtuousTreaty_Replica.label>白之约定 复制品</NA_W_VirtuousTreaty_Replica.label>
+  <NA_W_VirtuousTreaty_Replica.description>白之约定 复制品</NA_W_VirtuousTreaty_Replica.description>
+  <NA_W_VirtuousTreaty_Replica.tools.0.label>把手</NA_W_VirtuousTreaty_Replica.tools.0.label>
+  <NA_W_VirtuousTreaty_Replica.tools.1.label>尖端</NA_W_VirtuousTreaty_Replica.tools.1.label>
+  <NA_W_VirtuousTreaty_Replica.tools.2.label>利刃</NA_W_VirtuousTreaty_Replica.tools.2.label>
+
+
+  <!-- Type4OBlade -->
+
+  <NA_W_Type4OBlade_Prototype.label>四O式斩机刀 原型</NA_W_Type4OBlade_Prototype.label>
+  <NA_W_Type4OBlade_Prototype.description>四O式斩机刀 原型</NA_W_Type4OBlade_Prototype.description>
+  <NA_W_Type4OBlade_Prototype.comps.2.verbProps.0.label>shockwave</NA_W_Type4OBlade_Prototype.comps.2.verbProps.0.label>
+  <NA_W_Type4OBlade_Prototype.tools.0.label>把手</NA_W_Type4OBlade_Prototype.tools.0.label>
+  <NA_W_Type4OBlade_Prototype.tools.1.label>尖端</NA_W_Type4OBlade_Prototype.tools.1.label>
+  <NA_W_Type4OBlade_Prototype.tools.2.label>利刃</NA_W_Type4OBlade_Prototype.tools.2.label>
+  <NA_W_Type4OBlade_Prototype.verbs.0.label>shockwave</NA_W_Type4OBlade_Prototype.verbs.0.label>
+
+  <NA_W_Type4OBlade_Replica.label>四O式斩机刀 复制品</NA_W_Type4OBlade_Replica.label>
+  <NA_W_Type4OBlade_Replica.description>四O式斩机刀 复制品</NA_W_Type4OBlade_Replica.description>
+  <NA_W_Type4OBlade_Replica.tools.0.label>把手</NA_W_Type4OBlade_Replica.tools.0.label>
+  <NA_W_Type4OBlade_Replica.tools.1.label>尖端</NA_W_Type4OBlade_Replica.tools.1.label>
+  <NA_W_Type4OBlade_Replica.tools.2.label>利刃</NA_W_Type4OBlade_Replica.tools.2.label>
+
+
+  <!-- Beastlord -->
+
+  <NA_W_Beastlord_Prototype.label>百兽之剑王 原型</NA_W_Beastlord_Prototype.label>
+  <NA_W_Beastlord_Prototype.description>百兽之剑王 原型</NA_W_Beastlord_Prototype.description>
+  <NA_W_Beastlord_Prototype.comps.2.verbProps.0.label>shockwave</NA_W_Beastlord_Prototype.comps.2.verbProps.0.label>
+  <NA_W_Beastlord_Prototype.tools.0.label>把手</NA_W_Beastlord_Prototype.tools.0.label>
+  <NA_W_Beastlord_Prototype.tools.1.label>尖端</NA_W_Beastlord_Prototype.tools.1.label>
+  <NA_W_Beastlord_Prototype.tools.2.label>利刃</NA_W_Beastlord_Prototype.tools.2.label>
+  <NA_W_Beastlord_Prototype.verbs.0.label>shockwave</NA_W_Beastlord_Prototype.verbs.0.label>
+
+  <NA_W_Beastlord_Replica.label>百兽之剑王 复制品</NA_W_Beastlord_Replica.label>
+  <NA_W_Beastlord_Replica.description>百兽之剑王 复制品</NA_W_Beastlord_Replica.description>
+  <NA_W_Beastlord_Replica.tools.0.label>把手</NA_W_Beastlord_Replica.tools.0.label>
+  <NA_W_Beastlord_Replica.tools.1.label>尖端</NA_W_Beastlord_Replica.tools.1.label>
+  <NA_W_Beastlord_Replica.tools.2.label>利刃</NA_W_Beastlord_Replica.tools.2.label>
+
+
+  <!-- 黑之血盟 -->
+  <!--<NA_W_CruelBloodOath_Prototype.comps.0.verbProps.0.label>shockwave</NA_W_CruelBloodOath_Prototype.comps.0.verbProps.0.label>-->
+  <!-- 白之约定 -->
+  <!--<NA_W_VirtuousTreaty_Prototype.comps.0.verbProps.0.label>shockwave</NA_W_VirtuousTreaty_Prototype.comps.0.verbProps.0.label>-->
+  <!-- 四O式斩机刀 -->
+  <!--<NA_W_Type4OBlade_Prototype.comps.0.verbProps.0.label>shockwave</NA_W_Type4OBlade_Prototype.comps.0.verbProps.0.label>-->
+
+</LanguageData>

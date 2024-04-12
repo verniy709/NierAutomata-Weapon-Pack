@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CruelLament -->
+
+  <NA_W_CruelLament_Prototype.label>黑之恸哭 原型</NA_W_CruelLament_Prototype.label>
+  <NA_W_CruelLament_Prototype.description>黑之恸哭 原型</NA_W_CruelLament_Prototype.description>
+  <NA_W_CruelLament_Prototype.comps.2.verbProps.0.label>shockwave</NA_W_CruelLament_Prototype.comps.2.verbProps.0.label>
+  <NA_W_CruelLament_Prototype.tools.0.label>首端</NA_W_CruelLament_Prototype.tools.0.label>
+  <NA_W_CruelLament_Prototype.verbs.0.label>shockwave</NA_W_CruelLament_Prototype.verbs.0.label>
+
+  <NA_W_CruelLament_Replica.label>黑之恸哭 复制品</NA_W_CruelLament_Replica.label>
+  <NA_W_CruelLament_Replica.description>黑之恸哭 复制品</NA_W_CruelLament_Replica.description>
+  <NA_W_CruelLament_Replica.tools.0.label>首端</NA_W_CruelLament_Replica.tools.0.label>
+
+
+  <!-- VirtuousGrief -->
+
+  <NA_W_VirtuousGrief_Prototype.label>白之哀哭 原型</NA_W_VirtuousGrief_Prototype.label>
+  <NA_W_VirtuousGrief_Prototype.description>白之哀哭 原型</NA_W_VirtuousGrief_Prototype.description>
+  <NA_W_VirtuousGrief_Prototype.comps.2.verbProps.0.label>shockwave</NA_W_VirtuousGrief_Prototype.comps.2.verbProps.0.label>
+  <NA_W_VirtuousGrief_Prototype.tools.0.label>首端</NA_W_VirtuousGrief_Prototype.tools.0.label>
+  <NA_W_VirtuousGrief_Prototype.verbs.0.label>shockwave</NA_W_VirtuousGrief_Prototype.verbs.0.label>
+
+  <NA_W_VirtuousGrief_Replica.label>白之哀哭 复制品</NA_W_VirtuousGrief_Replica.label>
+  <NA_W_VirtuousGrief_Replica.description>白之哀哭 复制品</NA_W_VirtuousGrief_Replica.description>
+  <NA_W_VirtuousGrief_Replica.tools.0.label>首端</NA_W_VirtuousGrief_Replica.tools.0.label>
+
+
+  <!-- Type4OFists -->
+
+  <NA_W_Type4OFists_Prototype.label>四Ｏ式拳锷 原型</NA_W_Type4OFists_Prototype.label>
+  <NA_W_Type4OFists_Prototype.description>四Ｏ式拳锷 原型</NA_W_Type4OFists_Prototype.description>
+  <NA_W_Type4OFists_Prototype.comps.2.verbProps.0.label>shockwave</NA_W_Type4OFists_Prototype.comps.2.verbProps.0.label>
+  <NA_W_Type4OFists_Prototype.tools.0.label>首端</NA_W_Type4OFists_Prototype.tools.0.label>
+  <NA_W_Type4OFists_Prototype.verbs.0.label>shockwave</NA_W_Type4OFists_Prototype.verbs.0.label>
+
+  <NA_W_Type4OFists_Replica.label>四Ｏ式拳锷 复制品</NA_W_Type4OFists_Replica.label>
+  <NA_W_Type4OFists_Replica.description>四Ｏ式拳锷 复制品</NA_W_Type4OFists_Replica.description>
+  <NA_W_Type4OFists_Replica.tools.0.label>首端</NA_W_Type4OFists_Replica.tools.0.label>
+
+
+  <!-- EmilHeads -->
+
+  <NA_W_EmilHeads_Prototype.label>埃米尔的头 原型</NA_W_EmilHeads_Prototype.label>
+  <NA_W_EmilHeads_Prototype.description>埃米尔的头 原型</NA_W_EmilHeads_Prototype.description>
+  <NA_W_EmilHeads_Prototype.comps.2.verbProps.0.label>EmilHeads</NA_W_EmilHeads_Prototype.comps.2.verbProps.0.label>
+  <NA_W_EmilHeads_Prototype.tools.0.label>首端</NA_W_EmilHeads_Prototype.tools.0.label>
+  <NA_W_EmilHeads_Prototype.verbs.0.label>EmilHeads</NA_W_EmilHeads_Prototype.verbs.0.label>
+
+  <NA_W_EmilHeads_Replica.label>埃米尔的头 复制品</NA_W_EmilHeads_Replica.label>
+  <NA_W_EmilHeads_Replica.description>埃米尔的头 复制品</NA_W_EmilHeads_Replica.description>
+  <NA_W_EmilHeads_Replica.tools.0.label>首端</NA_W_EmilHeads_Replica.tools.0.label>
+
+
+  <!-- 黑之恸哭 -->
+  <!--<NA_W_CruelLament_Prototype.comps.0.verbProps.0.label>shockwave</NA_W_CruelLament_Prototype.comps.0.verbProps.0.label>-->
+  <!-- 白之哀哭 -->
+  <!--<NA_W_VirtuousGrief_Prototype.comps.0.verbProps.0.label>shockwave</NA_W_VirtuousGrief_Prototype.comps.0.verbProps.0.label>-->
+  <!-- 四Ｏ式拳锷 -->
+  <!--<NA_W_Type4OFists_Prototype.comps.0.verbProps.0.label>shockwave</NA_W_Type4OFists_Prototype.comps.0.verbProps.0.label>-->
+
+</LanguageData>

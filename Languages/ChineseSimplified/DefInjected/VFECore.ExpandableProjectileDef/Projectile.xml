@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Projectile Base -->
+
+  <NA_W_Projectile_Cruel.label>shockwave</NA_W_Projectile_Cruel.label>
+  <NA_W_Projectile_Virtuous.label>shockwave</NA_W_Projectile_Virtuous.label>
+  <NA_W_Projectile_Type4O.label>shockwave</NA_W_Projectile_Type4O.label>
+  <NA_W_Projectile_Beast.label>shockwave</NA_W_Projectile_Beast.label>
+
+
+  <!-- Projectile Small -->
+
+  <NA_W_Projectile_Cruel_S.label>shockwave</NA_W_Projectile_Cruel_S.label>
+  <NA_W_Projectile_Virtuous_S.label>shockwave</NA_W_Projectile_Virtuous_S.label>
+  <NA_W_Projectile_Type4O_S.label>shockwave</NA_W_Projectile_Type4O_S.label>
+
+
+  <!-- Projectile Medium -->
+
+  <NA_W_Projectile_Cruel_M.label>shockwave</NA_W_Projectile_Cruel_M.label>
+  <NA_W_Projectile_Virtuous_M.label>shockwave</NA_W_Projectile_Virtuous_M.label>
+  <NA_W_Projectile_Type4O_M.label>shockwave</NA_W_Projectile_Type4O_M.label>
+
+
+  <!-- Projectile Large -->
+
+  <NA_W_Projectile_Cruel_L.label>shockwave</NA_W_Projectile_Cruel_L.label>
+  <NA_W_Projectile_Virtuous_L.label>shockwave</NA_W_Projectile_Virtuous_L.label>
+  <NA_W_Projectile_Type4O_L.label>shockwave</NA_W_Projectile_Type4O_L.label>
+  <NA_W_Projectile_Beast_L.label>shockwave</NA_W_Projectile_Beast_L.label>
+
+
+</LanguageData>

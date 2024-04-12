@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!--== CruelLament ===-->
+<ThingDef ParentName="NA_W_WeaponBluntBase">
+  <defName>NA_W_CruelLament_Prototype</defName> 
+  <label>CruelLament Prototype</label>
+  <description>CruelLament Prototype</description>
+  <graphicData>
+    <texPath>Weapon/CruelLament</texPath>
+    <graphicClass>Graphic_Single</graphicClass>
+  </graphicData>
+  <techLevel>Spacer</techLevel>
+  <statBases>
+    <WorkToMake>15000</WorkToMake>
+    <Mass>2</Mass>
+    <AccuracyTouch>0.85</AccuracyTouch>
+    <AccuracyShort>0.7</AccuracyShort>
+    <AccuracyMedium>0.6</AccuracyMedium>
+    <AccuracyLong>0.55</AccuracyLong>
+    <RangedWeapon_Cooldown>0.15</RangedWeapon_Cooldown>
+  </statBases>
+  <stuffCategories>
+    <li>Metallic</li>
+  </stuffCategories>
+  <costStuffCount>150</costStuffCount>
+  <costList>
+    <ComponentSpacer>5</ComponentSpacer>
+  </costList>
+  <weaponTags>
+    <li>UltratechMelee</li>
+  </weaponTags>
+  <comps>
+    <li Class="MVCF.Comps.CompProperties_VerbProps">
+      <compClass>MVCF.Comps.Comp_VerbProps</compClass>
+      <ConsiderMelee>true</ConsiderMelee>
+      <verbProps>
+        <li>
+          <label>shockwave</label>
+          <canBeToggled>true</canBeToggled>
+        </li>
+      </verbProps>
+    </li>
+  </comps>
+  <verbs>
+    <li>
+      <verbClass>Verb_Shoot</verbClass>
+      <label>shockwave</label>
+      <hasStandardCommand>true</hasStandardCommand>
+      <defaultProjectile>NA_W_Projectile_Cruel_S</defaultProjectile>
+      <warmupTime>0.15</warmupTime>
+      <range>6</range>
+      <soundCast>NA_W_SwordSlide</soundCast>
+      <burstShotCount>1</burstShotCount>
+    </li>
+  </verbs>
+  <tools>
+    <li>
+      <label>head</label>
+      <labelUsedInLogging>false</labelUsedInLogging>
+      <capacities>
+        <li>Blunt</li>
+      </capacities>
+      <power>20</power>
+      <cooldownTime>1.2</cooldownTime>
+    </li>
+  </tools>
+</ThingDef>   
+
+<ThingDef ParentName="NA_W_WeaponBluntBase">
+  <defName>NA_W_CruelLament_Replica</defName> 
+  <label>CruelLament Replica</label>
+  <description>CruelLament Replica</description>
+  <graphicData>
+    <texPath>Weapon/CruelLament</texPath>
+    <graphicClass>Graphic_Single</graphicClass>
+  </graphicData>
+  <techLevel>Spacer</techLevel>
+  <statBases>
+    <WorkToMake>10000</WorkToMake>
+    <Mass>2</Mass>
+  </statBases>
+  <stuffCategories>
+    <li>Metallic</li>
+  </stuffCategories>
+  <costStuffCount>150</costStuffCount>
+  <weaponTags>
+    <li>UltratechMelee</li>
+  </weaponTags>
+  <tools>
+    <li>
+      <label>head</label>
+      <labelUsedInLogging>false</labelUsedInLogging>
+      <capacities>
+        <li>Blunt</li>
+      </capacities>
+      <power>20</power>
+      <cooldownTime>1.2</cooldownTime>
+    </li>
+  </tools>
+</ThingDef>  
+ 
+ <!--== VirtuousGrief ===-->
+<ThingDef ParentName="NA_W_WeaponBluntBase">
+  <defName>NA_W_VirtuousGrief_Prototype</defName> 
+  <label>VirtuousGrief Prototype</label>
+  <description>VirtuousGrief Prototype</description>
+  <graphicData>
+    <texPath>Weapon/VirtuousGrief</texPath>
+    <graphicClass>Graphic_Single</graphicClass>
+  </graphicData>
+  <techLevel>Spacer</techLevel>
+  <statBases>
+    <WorkToMake>8000</WorkToMake>
+    <Mass>2</Mass>
+    <AccuracyTouch>0.85</AccuracyTouch>
+    <AccuracyShort>0.7</AccuracyShort>
+    <AccuracyMedium>0.6</AccuracyMedium>
+    <AccuracyLong>0.55</AccuracyLong>
+    <RangedWeapon_Cooldown>0.15</RangedWeapon_Cooldown>
+  </statBases>
+  <stuffCategories>
+    <li>Metallic</li>
+  </stuffCategories>
+  <costStuffCount>150</costStuffCount>
+  <costList>
+    <ComponentSpacer>5</ComponentSpacer>
+  </costList>
+  <weaponTags>
+    <li>UltratechMelee</li>
+  </weaponTags>
+  <comps>
+    <li Class="MVCF.Comps.CompProperties_VerbProps">
+      <compClass>MVCF.Comps.Comp_VerbProps</compClass>
+      <ConsiderMelee>true</ConsiderMelee>
+      <verbProps>
+        <li>
+          <label>shockwave</label>
+          <canBeToggled>true</canBeToggled>
+        </li>
+      </verbProps>
+    </li>
+  </comps>
+  <verbs>
+    <li>
+      <verbClass>Verb_Shoot</verbClass>
+      <label>shockwave</label>
+      <hasStandardCommand>true</hasStandardCommand>
+      <defaultProjectile>NA_W_Projectile_Virtuous_S</defaultProjectile>
+      <warmupTime>0.15</warmupTime>
+      <range>6</range>
+      <soundCast>NA_W_SwordSlide</soundCast>
+      <burstShotCount>1</burstShotCount>
+    </li>
+  </verbs>
+  <tools>
+    <li>
+      <label>head</label>
+      <labelUsedInLogging>false</labelUsedInLogging>
+      <capacities>
+        <li>Blunt</li>
+      </capacities>
+      <power>20</power>
+      <cooldownTime>1.2</cooldownTime>
+    </li>
+  </tools>
+</ThingDef>
+
+<ThingDef ParentName="NA_W_WeaponBluntBase">
+  <defName>NA_W_VirtuousGrief_Replica</defName> 
+  <label>VirtuousGrief Replica</label>
+  <description>VirtuousGrief Replica</description>
+  <graphicData>
+    <texPath>Weapon/VirtuousGrief</texPath>
+    <graphicClass>Graphic_Single</graphicClass>
+  </graphicData>
+  <techLevel>Spacer</techLevel>
+  <statBases>
+    <WorkToMake>10000</WorkToMake>
+    <Mass>2</Mass>
+  </statBases>
+  <stuffCategories>
+    <li>Metallic</li>
+  </stuffCategories>
+  <costStuffCount>150</costStuffCount>
+  <weaponTags>
+    <li>UltratechMelee</li>
+  </weaponTags>
+  <tools>
+    <li>
+      <label>head</label>
+      <labelUsedInLogging>false</labelUsedInLogging>
+      <capacities>
+        <li>Blunt</li>
+      </capacities>
+      <power>20</power>
+      <cooldownTime>1.2</cooldownTime>
+    </li>
+  </tools>
+</ThingDef>
+
+<!--== Type4OFists ===-->
+<ThingDef ParentName="NA_W_WeaponBluntBase">
+  <defName>NA_W_Type4OFists_Prototype</defName> 
+  <label>Type4OFists Prototype</label>
+  <description>Type4OFists Prototype</description>
+  <graphicData>
+    <texPath>Weapon/Type4OFists</texPath>
+    <graphicClass>Graphic_Single</graphicClass>
+  </graphicData>
+  <techLevel>Spacer</techLevel>
+  <statBases>
+    <WorkToMake>15000</WorkToMake>
+    <Mass>2</Mass>
+    <AccuracyTouch>0.85</AccuracyTouch>
+    <AccuracyShort>0.7</AccuracyShort>
+    <AccuracyMedium>0.6</AccuracyMedium>
+    <AccuracyLong>0.55</AccuracyLong>
+    <RangedWeapon_Cooldown>0.15</RangedWeapon_Cooldown>
+  </statBases>
+  <stuffCategories>
+    <li>Metallic</li>
+  </stuffCategories>
+  <costStuffCount>150</costStuffCount>
+  <costList>
+    <ComponentSpacer>5</ComponentSpacer>
+  </costList>
+  <weaponTags>
+    <li>UltratechMelee</li>
+  </weaponTags>
+  <comps>
+    <li Class="MVCF.Comps.CompProperties_VerbProps">
+      <compClass>MVCF.Comps.Comp_VerbProps</compClass>
+      <ConsiderMelee>true</ConsiderMelee>
+      <verbProps>
+        <li>
+          <label>shockwave</label>
+          <canBeToggled>true</canBeToggled>
+        </li>
+      </verbProps>
+    </li>
+  </comps>
+  <verbs>
+    <li>
+      <verbClass>Verb_Shoot</verbClass>
+      <label>shockwave</label>
+      <hasStandardCommand>true</hasStandardCommand>
+      <defaultProjectile>NA_W_Projectile_Type4O_S</defaultProjectile>
+      <warmupTime>0.15</warmupTime>
+      <range>6</range>
+      <soundCast>NA_W_SwordElectric</soundCast>
+      <burstShotCount>1</burstShotCount>
+    </li>
+  </verbs>
+  <tools>
+    <li>
+      <label>head</label>
+      <labelUsedInLogging>false</labelUsedInLogging>
+      <capacities>
+        <li>Blunt</li>
+      </capacities>
+      <power>20</power>
+      <extraMeleeDamages>
+        <li>
+          <def>EMP</def>
+          <amount>8</amount>
+        </li>
+      </extraMeleeDamages>
+      <cooldownTime>1.2</cooldownTime>
+    </li>
+  </tools>
+</ThingDef>
+
+<ThingDef ParentName="NA_W_WeaponBluntBase">
+  <defName>NA_W_Type4OFists_Replica</defName> 
+  <label>Type4OFists Replica</label>
+  <description>Type4OFists Replica</description>
+  <graphicData>
+    <texPath>Weapon/Type4OFists</texPath>
+    <graphicClass>Graphic_Single</graphicClass>
+  </graphicData>
+  <techLevel>Spacer</techLevel>
+  <statBases>
+    <WorkToMake>10000</WorkToMake>
+    <Mass>2</Mass>
+  </statBases>
+  <stuffCategories>
+    <li>Metallic</li>
+  </stuffCategories>
+  <costStuffCount>150</costStuffCount>
+  <weaponTags>
+    <li>UltratechMelee</li>
+  </weaponTags>
+  <tools>
+    <li>
+      <label>head</label>
+      <labelUsedInLogging>false</labelUsedInLogging>
+      <capacities>
+        <li>Blunt</li>
+      </capacities>
+      <power>20</power>
+      <extraMeleeDamages>
+        <li>
+          <def>EMP</def>
+          <amount>8</amount>
+        </li>
+      </extraMeleeDamages>
+      <cooldownTime>1.2</cooldownTime>
+    </li>
+  </tools>
+</ThingDef>
+
+<!--== EmilHeads ===-->
+<ThingDef ParentName="NA_W_WeaponBluntBase">
+  <defName>NA_W_EmilHeads_Prototype</defName> 
+  <label>EmilHeads Prototype</label>
+  <description>EmilHeads Prototype</description>
+  <graphicData>
+    <texPath>Weapon/EmilHeads</texPath>
+    <graphicClass>Graphic_Single</graphicClass>
+  </graphicData>
+  <techLevel>Spacer</techLevel>
+  <statBases>
+    <WorkToMake>15000</WorkToMake>
+    <Mass>2</Mass>
+    <RangedWeapon_Cooldown>0.25</RangedWeapon_Cooldown>
+  </statBases>
+  <stuffCategories>
+    <li>Metallic</li>
+  </stuffCategories>
+  <costStuffCount>150</costStuffCount>
+  <costList>
+    <ComponentSpacer>5</ComponentSpacer>
+  </costList>
+  <weaponTags>
+    <li>UltratechMelee</li>
+  </weaponTags>
+  <comps>
+    <li Class="MVCF.Comps.CompProperties_VerbProps">
+      <compClass>MVCF.Comps.Comp_VerbProps</compClass>
+      <ConsiderMelee>true</ConsiderMelee>
+      <verbProps>
+        <li>
+          <label>EmilHeads</label>
+          <canBeToggled>true</canBeToggled>
+        </li>
+      </verbProps>
+    </li>
+  </comps>
+  <verbs>
+    <li>
+      <verbClass>Verb_Shoot</verbClass>
+      <label>EmilHeads</label>
+      <hasStandardCommand>true</hasStandardCommand>
+      <defaultProjectile>BB_W_EmilHeads_Shell</defaultProjectile>
+      <warmupTime>0.15</warmupTime>
+      <range>12</range>
+      <forcedMissRadius>1.9</forcedMissRadius>
+      <noiseRadius>3</noiseRadius>
+      <soundCast>NA_W_Emil</soundCast>
+      <burstShotCount>1</burstShotCount>
+      <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+      </targetParams>
+    </li>
+  </verbs>
+  <tools>
+    <li>
+      <label>head</label>
+      <labelUsedInLogging>false</labelUsedInLogging>
+      <capacities>
+        <li>Blunt</li>
+      </capacities>
+      <power>20</power>
+      <cooldownTime>1.2</cooldownTime>
+    </li>
+  </tools>
+</ThingDef>   
+
+<ThingDef ParentName="NA_W_WeaponBluntBase">
+  <defName>NA_W_EmilHeads_Replica</defName> 
+  <label>EmilHeads Replica</label>
+  <description>EmilHeads Replica</description>
+  <graphicData>
+    <texPath>Weapon/EmilHeads</texPath>
+    <graphicClass>Graphic_Single</graphicClass>
+  </graphicData>
+  <techLevel>Spacer</techLevel>
+  <statBases>
+    <WorkToMake>10000</WorkToMake>
+    <Mass>2</Mass>
+  </statBases>
+  <stuffCategories>
+    <li>Metallic</li>
+  </stuffCategories>
+  <costStuffCount>150</costStuffCount>
+  <weaponTags>
+    <li>UltratechMelee</li>
+  </weaponTags>
+  <tools>
+    <li>
+      <label>head</label>
+      <labelUsedInLogging>false</labelUsedInLogging>
+      <capacities>
+        <li>Blunt</li>
+      </capacities>
+      <power>20</power>
+      <cooldownTime>1.2</cooldownTime>
+    </li>
+  </tools>
+</ThingDef>  
+
+</Defs>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- CruelArrogance -->
+
+  <NA_W_CruelArrogance_Prototype.label>黑之倨傲 原型</NA_W_CruelArrogance_Prototype.label>
+  <NA_W_CruelArrogance_Prototype.description>黑之倨傲 原型</NA_W_CruelArrogance_Prototype.description>
+  <NA_W_CruelArrogance_Prototype.comps.2.verbProps.0.label>shockwave</NA_W_CruelArrogance_Prototype.comps.2.verbProps.0.label>
+  <NA_W_CruelArrogance_Prototype.tools.0.label>把手</NA_W_CruelArrogance_Prototype.tools.0.label>
+  <NA_W_CruelArrogance_Prototype.tools.1.label>首端</NA_W_CruelArrogance_Prototype.tools.1.label>
+  <NA_W_CruelArrogance_Prototype.tools.2.label>利刃</NA_W_CruelArrogance_Prototype.tools.2.label>
+  <NA_W_CruelArrogance_Prototype.verbs.0.label>shockwave</NA_W_CruelArrogance_Prototype.verbs.0.label>
+
+  <NA_W_CruelArrogance_Replica.label>黑之倨傲 复制品</NA_W_CruelArrogance_Replica.label>
+  <NA_W_CruelArrogance_Replica.description>黑之倨傲 复制品</NA_W_CruelArrogance_Replica.description>
+  <NA_W_CruelArrogance_Replica.tools.0.label>把手</NA_W_CruelArrogance_Replica.tools.0.label>
+  <NA_W_CruelArrogance_Replica.tools.1.label>首端</NA_W_CruelArrogance_Replica.tools.1.label>
+  <NA_W_CruelArrogance_Replica.tools.2.label>利刃</NA_W_CruelArrogance_Replica.tools.2.label>
+
+
+  <!-- VirtuousDignity -->
+
+  <NA_W_VirtuousDignity_Prototype.label>白之矜持 原型</NA_W_VirtuousDignity_Prototype.label>
+  <NA_W_VirtuousDignity_Prototype.description>白之矜持 原型</NA_W_VirtuousDignity_Prototype.description>
+  <NA_W_VirtuousDignity_Prototype.comps.2.verbProps.0.label>shockwave</NA_W_VirtuousDignity_Prototype.comps.2.verbProps.0.label>
+  <NA_W_VirtuousDignity_Prototype.tools.0.label>把手</NA_W_VirtuousDignity_Prototype.tools.0.label>
+  <NA_W_VirtuousDignity_Prototype.tools.1.label>首端</NA_W_VirtuousDignity_Prototype.tools.1.label>
+  <NA_W_VirtuousDignity_Prototype.tools.2.label>利刃</NA_W_VirtuousDignity_Prototype.tools.2.label>
+  <NA_W_VirtuousDignity_Prototype.verbs.0.label>shockwave</NA_W_VirtuousDignity_Prototype.verbs.0.label>
+
+  <NA_W_VirtuousDignity_Replica.label>白之矜持 复制品</NA_W_VirtuousDignity_Replica.label>
+  <NA_W_VirtuousDignity_Replica.description>白之矜持 复制品</NA_W_VirtuousDignity_Replica.description>
+  <NA_W_VirtuousDignity_Replica.tools.0.label>把手</NA_W_VirtuousDignity_Replica.tools.0.label>
+  <NA_W_VirtuousDignity_Replica.tools.1.label>首端</NA_W_VirtuousDignity_Replica.tools.1.label>
+  <NA_W_VirtuousDignity_Replica.tools.2.label>利刃</NA_W_VirtuousDignity_Replica.tools.2.label>
+
+
+  <!-- Type4OLance -->
+
+  <NA_W_Type4OLance_Prototype.label>四O式战术枪 原型</NA_W_Type4OLance_Prototype.label>
+  <NA_W_Type4OLance_Prototype.description>四O式战术枪 原型</NA_W_Type4OLance_Prototype.description>
+  <NA_W_Type4OLance_Prototype.comps.2.verbProps.0.label>shockwave</NA_W_Type4OLance_Prototype.comps.2.verbProps.0.label>
+  <NA_W_Type4OLance_Prototype.tools.0.label>把手</NA_W_Type4OLance_Prototype.tools.0.label>
+  <NA_W_Type4OLance_Prototype.tools.1.label>首端</NA_W_Type4OLance_Prototype.tools.1.label>
+  <NA_W_Type4OLance_Prototype.tools.2.label>利刃</NA_W_Type4OLance_Prototype.tools.2.label>
+  <NA_W_Type4OLance_Prototype.verbs.0.label>shockwave</NA_W_Type4OLance_Prototype.verbs.0.label>
+
+  <NA_W_Type4OLance_Replica.label>四O式战术枪 复制品</NA_W_Type4OLance_Replica.label>
+  <NA_W_Type4OLance_Replica.description>四O式战术枪 复制品</NA_W_Type4OLance_Replica.description>
+  <NA_W_Type4OLance_Replica.tools.0.label>把手</NA_W_Type4OLance_Replica.tools.0.label>
+  <NA_W_Type4OLance_Replica.tools.1.label>首端</NA_W_Type4OLance_Replica.tools.1.label>
+  <NA_W_Type4OLance_Replica.tools.2.label>利刃</NA_W_Type4OLance_Replica.tools.2.label>
+
+
+  <!-- Beastcurse -->
+
+  <NA_W_Beastcurse_Prototype.label>百兽之双枪 原型</NA_W_Beastcurse_Prototype.label>
+  <NA_W_Beastcurse_Prototype.description>百兽之双枪 原型</NA_W_Beastcurse_Prototype.description>
+  <NA_W_Beastcurse_Prototype.comps.2.verbProps.0.label>shockwave</NA_W_Beastcurse_Prototype.comps.2.verbProps.0.label>
+  <NA_W_Beastcurse_Prototype.tools.0.label>把手</NA_W_Beastcurse_Prototype.tools.0.label>
+  <NA_W_Beastcurse_Prototype.tools.1.label>首端</NA_W_Beastcurse_Prototype.tools.1.label>
+  <NA_W_Beastcurse_Prototype.tools.2.label>利刃</NA_W_Beastcurse_Prototype.tools.2.label>
+  <NA_W_Beastcurse_Prototype.verbs.0.label>shockwave</NA_W_Beastcurse_Prototype.verbs.0.label>
+
+  <NA_W_Beastcurse_Replica.label>百兽之双枪 复制品</NA_W_Beastcurse_Replica.label>
+  <NA_W_Beastcurse_Replica.description>百兽之双枪 复制品</NA_W_Beastcurse_Replica.description>
+  <NA_W_Beastcurse_Replica.tools.0.label>把手</NA_W_Beastcurse_Replica.tools.0.label>
+  <NA_W_Beastcurse_Replica.tools.1.label>首端</NA_W_Beastcurse_Replica.tools.1.label>
+  <NA_W_Beastcurse_Replica.tools.2.label>利刃</NA_W_Beastcurse_Replica.tools.2.label>
+
+
+  <!-- 黑之倨傲 -->
+  <!--<NA_W_CruelArrogance_Prototype.comps.0.verbProps.0.label>shockwave</NA_W_CruelArrogance_Prototype.comps.0.verbProps.0.label>-->
+  <!-- 白之矜持 -->
+  <!--<NA_W_VirtuousDignity_Prototype.comps.0.verbProps.0.label>shockwave</NA_W_VirtuousDignity_Prototype.comps.0.verbProps.0.label>-->
+  <!-- 四O式战术枪 -->
+  <!--<NA_W_Type4OLance_Prototype.comps.0.verbProps.0.label>shockwave</NA_W_Type4OLance_Prototype.comps.0.verbProps.0.label>-->
+
+</LanguageData>
