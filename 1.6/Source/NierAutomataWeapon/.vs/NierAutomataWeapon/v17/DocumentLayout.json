@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D6CF91-BDB5-42A7-BE2E-EBD58528C414}|NierAutomataWeapon.csproj|d:\\steam\\steamapps\\common\\rimworld\\mods\\nierautomataweapon\\1.6\\source\\nierautomataweapon\\nierautomataweapon_harmonypatches\\patch_pawn_getgizmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D6CF91-BDB5-42A7-BE2E-EBD58528C414}|NierAutomataWeapon.csproj|solutionrelative:nierautomataweapon_harmonypatches\\patch_pawn_getgizmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D6CF91-BDB5-42A7-BE2E-EBD58528C414}|NierAutomataWeapon.csproj|D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\nierautomataweapon_harmonypatches\\patch_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D6CF91-BDB5-42A7-BE2E-EBD58528C414}|NierAutomataWeapon.csproj|solutionrelative:nierautomataweapon_harmonypatches\\patch_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D6CF91-BDB5-42A7-BE2E-EBD58528C414}|NierAutomataWeapon.csproj|D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\nierautomataweapon_harmonypatches\\patch_israngedweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D6CF91-BDB5-42A7-BE2E-EBD58528C414}|NierAutomataWeapon.csproj|solutionrelative:nierautomataweapon_harmonypatches\\patch_israngedweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D6CF91-BDB5-42A7-BE2E-EBD58528C414}|NierAutomataWeapon.csproj|D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\defmodextension_nierautomataweaponconsideredmelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D6CF91-BDB5-42A7-BE2E-EBD58528C414}|NierAutomataWeapon.csproj|solutionrelative:defmodextension_nierautomataweaponconsideredmelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patch_Pawn_GetGizmos.cs",
+              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\NierAutomataWeapon_HarmonyPatches\\Patch_Pawn_GetGizmos.cs",
+              "RelativeDocumentMoniker": "NierAutomataWeapon_HarmonyPatches\\Patch_Pawn_GetGizmos.cs",
+              "ToolTip": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\NierAutomataWeapon_HarmonyPatches\\Patch_Pawn_GetGizmos.cs",
+              "RelativeToolTip": "NierAutomataWeapon_HarmonyPatches\\Patch_Pawn_GetGizmos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T18:01:46.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefModExtension_NierAutomataWeaponConsideredMelee.cs",
+              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\DefModExtension_NierAutomataWeaponConsideredMelee.cs",
+              "RelativeDocumentMoniker": "DefModExtension_NierAutomataWeaponConsideredMelee.cs",
+              "ToolTip": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\DefModExtension_NierAutomataWeaponConsideredMelee.cs",
+              "RelativeToolTip": "DefModExtension_NierAutomataWeaponConsideredMelee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:01:44.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patch_IsRangedWeapon.cs",
+              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\NierAutomataWeapon_HarmonyPatches\\Patch_IsRangedWeapon.cs",
+              "RelativeDocumentMoniker": "NierAutomataWeapon_HarmonyPatches\\Patch_IsRangedWeapon.cs",
+              "ToolTip": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\NierAutomataWeapon_HarmonyPatches\\Patch_IsRangedWeapon.cs",
+              "RelativeToolTip": "NierAutomataWeapon_HarmonyPatches\\Patch_IsRangedWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:00:05.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patch_Main.cs",
+              "DocumentMoniker": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\NierAutomataWeapon_HarmonyPatches\\Patch_Main.cs",
+              "RelativeDocumentMoniker": "NierAutomataWeapon_HarmonyPatches\\Patch_Main.cs",
+              "ToolTip": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\NierAutomataWeapon\\1.6\\Source\\NierAutomataWeapon\\NierAutomataWeapon_HarmonyPatches\\Patch_Main.cs",
+              "RelativeToolTip": "NierAutomataWeapon_HarmonyPatches\\Patch_Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:57:54.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
